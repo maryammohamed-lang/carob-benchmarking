@@ -1,8 +1,7 @@
 # Benchmarking CIP datasets in Carob
 
 Code for the report *"Standardising and Benchmarking Agronomic Research Data
-for the Carob Open-Data Ecosystem"* (Maryam Yahya Mohamed and
-Bester Tawona Mudereri, CIP, 2026).
+for the Carob Open-Data Ecosystem"* (Maryam Yahya Mohamed , CIP, 2026).
 
 ## What is in this repository
 
@@ -53,7 +52,3 @@ https://github.com/carob-data/carob (see the pull request numbers in Table 1 of 
 - FAOSTAT: https://www.fao.org/faostat
 - GADM 4.1: https://gadm.org
 
-## Acknowledgements
-
-This work was carried out at the International Potato Center (CIP) and was
-co-funded by AIMS Rwanda through its Work-Integrated Learning (WIL) programme.
