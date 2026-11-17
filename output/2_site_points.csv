@@ -1,0 +1,136 @@
+"country","location","longitude","latitude","dataset","inside_country"
+"Peru","San Ramon",-75.3625,-10.9856,"2D2NAV",TRUE
+"Peru","Huancayo",-75.1608,-12.1722,"AURP2P",TRUE
+"Peru","Huancayo",-75.2049,-12.0651,"B7HWWH",TRUE
+"Peru","Huanuco",-76.2421,-9.9306,"B7HWWH",TRUE
+"Peru","Oxapampa",-75.4022,-10.5775,"B7HWWH",TRUE
+"Peru","Cajamarca",-78.5,-7.1638,"BJECYK",TRUE
+"Peru","Huancayo",-75.2048,-12.0651,"BJECYK",TRUE
+"Peru","Huanuco",-76.2422,-9.9306,"BJECYK",TRUE
+"Peru","Licame",-78.0483,-7.8133,"BJECYK",TRUE
+"Peru","Majes",-72.1911,-16.3625,"BJECYK",TRUE
+"Peru","Yanac",-78.0483,-7.8133,"BJECYK",TRUE
+"Peru","El Mantaro, Junin",-75.3233,-11.855,"BW8LWJ",TRUE
+"Peru","Huanuco",-76.2421,-9.9306,"BW8LWJ",TRUE
+"Peru","Oxapampa",-75.4022,-10.5775,"BW8LWJ",TRUE
+"Peru","Oxapampa",-75.41538,-10.6041,"CQUBLX",TRUE
+"Peru","Comas",-75.13,-11.71,"D9AOAZ",TRUE
+"Peru","Cajamarca",-78.5,-7.1638,"E1GOGT",TRUE
+"Peru","Huancavelica",-74.8129,-12.7537,"E1GOGT",TRUE
+"Peru","La Libertad",-77.8683,-7.7814,"E1GOGT",TRUE
+"Peru","Cajamarca",-78.5,-7.1638,"F6ZZJH",TRUE
+"Peru","Huamachuco Licame",-77.7733,-7.8133,"F6ZZJH",TRUE
+"Peru","Huamachuco Yanac",-77.8,-7.8,"F6ZZJH",TRUE
+"Peru","Huancayo",-75.2049,-12.0651,"F6ZZJH",TRUE
+"Peru","Huanuco",-76.2422,-9.9306,"F6ZZJH",TRUE
+"Peru","Majes",-72.1911,-16.3625,"F6ZZJH",TRUE
+"Kenya","Baraka",35.0333,-0.2,"FBZ6JS",TRUE
+"Kenya","Kibirichia",37.5166,0.1,"FBZ6JS",TRUE
+"Kenya","Kisima",37.4,0.1166,"FBZ6JS",TRUE
+"Kenya","Limuru",36.7333,-1.1333,"FBZ6JS",TRUE
+"Kenya","Narok",35.8666,-1.0833,"FBZ6JS",TRUE
+"Peru","Chota",-78.65,-6.5636,"FF5CZT",TRUE
+"Peru","Huamachuco",-77.7733,-7.8133,"FF5CZT",TRUE
+"Peru","Huanuco",-76.2422,-9.9306,"FF5CZT",TRUE
+"Peru","Majes",-72.1911,-16.3625,"FF5CZT",TRUE
+"Peru","Quilcas",-75.2593,-11.9375,"FF5CZT",TRUE
+"Peru","Huamachuco",-78.0483,-7.8133,"FO7KPO",TRUE
+"Tanzania","Gataraga",34.9,-2.55,"FOZT2L",TRUE
+"Tanzania","Ntaruka",35.5,-2.85,"FOZT2L",TRUE
+"Tanzania","Nyange",30.541,-3.5971,"FOZT2L",TRUE
+"Tanzania","Ruhunde",35.3,-2.7,"FOZT2L",TRUE
+"Tanzania","Shira",37.2372,-3.0337,"FOZT2L",TRUE
+"Peru","ACACHAYO",-75.35,-12,"G3JK72",TRUE
+"Peru","CASACANCHA",-75.42,-11.95,"G3JK72",TRUE
+"Peru","CHACRAMPA",-75.48,-12.1,"G3JK72",TRUE
+"Peru","HUAQUIA",-75.38,-11.98,"G3JK72",TRUE
+"Peru","PATAPATA",-75.45,-11.92,"G3JK72",TRUE
+"Peru","Oxapampa",-75.4022,-10.5775,"GKZ7EH",TRUE
+"Peru","Cajamarca",-78.5,-7.1638,"H8E8KL",TRUE
+"Peru","Huamachuco",-78.05,-7.8133,"H8E8KL",TRUE
+"Peru","Huancayo",-75.2048,-12.0651,"HDAREL",TRUE
+"Peru","Chinchao",-76.08,-9.77,"J9NLVP",TRUE
+"Peru","Chugay",-77.87,-7.78,"J9NLVP",TRUE
+"Peru","Jauja",-75.497,-11.775,"J9NLVP",TRUE
+"Peru","La Paccha",-78.808,-6.63706,"J9NLVP",TRUE
+"Peru","Majes",-72.1911,-16.3625,"J9NLVP",TRUE
+"Peru","Quilcas",-75.2593,-11.9375,"J9NLVP",TRUE
+"Peru","Santa Rita",-72.09,-16.49,"J9NLVP",TRUE
+"Peru","Yanac",-76.40528,-11.60639,"J9NLVP",TRUE
+"Peru","Chinchao",-76.0667,-9.63333,"MXKUIK",TRUE
+"Peru","Chugay",-77.8683,-7.78167,"MXKUIK",TRUE
+"Peru","Jauja",-75.5,-11.775,"MXKUIK",TRUE
+"Peru","La Paccha",-78.92879,-6.51181,"MXKUIK",TRUE
+"Peru","Majes",-72.19111,-16.3625,"MXKUIK",TRUE
+"Peru","Majes1",-72.19111,-16.3625,"MXKUIK",TRUE
+"Peru","Majes2",-72.19111,-16.3625,"MXKUIK",TRUE
+"Peru","Quilcas",-75.2593,-11.93749,"MXKUIK",TRUE
+"Peru","Santa Rita",-75.5,-12,"MXKUIK",TRUE
+"Peru","Yanac",-77.8,-7.8,"MXKUIK",TRUE
+"Peru","Monobamba",-75.318,-11.357,"N7ERPI",TRUE
+"Peru","Oxapampa",-75.4022,-10.5775,"N7ERPI",TRUE
+"Peru","Oxapampa",-75.415376,-10.604103,"NDW1KB",TRUE
+"Peru","La Molina",-76.948417,-12.076289,"P3_2WCUAE",TRUE
+"Peru","Majes",-72.18889,-16.49306,"P3_2WCUAE",TRUE
+"Peru","Oxapampa",-75.4043,-10.57745,"P3_9VMENB",TRUE
+"Peru","San Ramon",-75.356389,-11.1275,"P3_EKOYZ1",TRUE
+"Peru","La Molina",-76.948417,-12.076289,"P3_EKOYZ1",TRUE
+"Peru","Santa Rita de Siguas",-72.188889,-16.493056,"P3_EKOYZ1",TRUE
+"Peru","Oxapampa",-75.4043,-10.57745,"P3_HJLUJZ",TRUE
+"Uganda","Namulonge",32.615,0.53,"P3_IC6ZEY",TRUE
+"Uganda","Serere",33.45,1.51,"P3_IC6ZEY",TRUE
+"Ethiopia","Holetta",38.38333,8.88333,"P3_JJJQV0",TRUE
+"China","Kunming",102.72257,25.03886,"P3_JJJQV0",TRUE
+"Peru","San Ramon",-75.356389,-11.1275,"P3_KZWGT8",TRUE
+"Peru","La Molina",-76.948417,-12.076289,"P3_KZWGT8",TRUE
+"Peru","Majes",-72.188889,-16.493056,"P3_KZWGT8",TRUE
+"Peru","La Molina",-76.948417,-12.076289,"P3_P78GMU",TRUE
+"Peru","Majes",-72.1,-16.46666667,"P3_P78GMU",TRUE
+"Peru","Oxapampa",-75.4043,-10.57745,"P3_P78GMU",TRUE
+"Peru","San Ramon",-75.356389,-11.1275,"P3_P78GMU",TRUE
+"Peru","Oxapampa",-75.4153,-10.6039,"P3_PN2RGR",TRUE
+"Peru","Aeropuerto",-74.9038888888889,-13.0636111111111,"P3_QJ10B7",TRUE
+"Peru","Occo Centro",-74.67376,-12.86861,"P3_QJ10B7",TRUE
+"Peru","Allato",-74.73535,-12.96995,"P3_QJ10B7",TRUE
+"Peru","Chacapunco",-74.68734,-12.86761,"P3_QJ10B7",TRUE
+"Peru","San Juan",-77.81046,-7.79461,"P3_QXIM59",TRUE
+"Peru","San Juan Bajo",-77.81046,-7.79461,"P3_RVCHKV",TRUE
+"Peru","La Soledad",-77.8308194444444,-7.76989722222222,"P3_RVCHKV",TRUE
+"Peru","Macullida",-77.79244,-7.78791,"P3_RVCHKV",TRUE
+"Peru","Yanamayo",-72.26289,-13.25588,"P3_RWIMFO",TRUE
+"Peru","Patacancha",-72.18757,-13.14994,"P3_RWIMFO",TRUE
+"Peru","San Ramon",-75.356389,-11.1275,"P3_SKYDRT",TRUE
+"Peru","La Molina",-76.948417,-12.076289,"P3_SKYDRT",TRUE
+"Peru","Majes",-72.188889,-16.493056,"P3_SKYDRT",TRUE
+"Peru","Oxapampa",-75.4043,-10.57745,"P3_XVRHST",TRUE
+"Peru","San Ramon",-75.34171,-11.16116,"P3_XVRHST",TRUE
+"Peru","La Molina",-76.948417,-12.076289,"P3_XVRHST",TRUE
+"Peru","Santa Ana",-75.224111,-12.010394,"P3_XVRHST",TRUE
+"Peru","Monobamba",-75.318,-11.357,"QLAM5E",TRUE
+"Peru","Oxapampa",-75.4022,-10.5775,"QLAM5E",TRUE
+"Peru","Cajamarca",-78.5,-7.1638,"RKTBNX",TRUE
+"Peru","Huamachuco Licame",-77.7733,-7.8133,"RKTBNX",TRUE
+"Peru","Huancayo",-75.2049,-12.0651,"RKTBNX",TRUE
+"Peru","Huanuco",-76.2422,-9.9306,"RKTBNX",TRUE
+"Peru","Majes",-72.1911,-16.3625,"RKTBNX",TRUE
+"Peru","Aymara",-73.3833,-14.7967,"WQMMSN",TRUE
+"Peru","Cajamarca",-78.5003,-7.1638,"WQMMSN",TRUE
+"Peru","Chaglla",-75.7742,-9.8696,"WQMMSN",TRUE
+"Peru","Cochacalla",-76.20876,-10.35858,"WQMMSN",TRUE
+"Peru","Comas",-75.0333,-11.95,"WQMMSN",TRUE
+"Peru","Cusco",-71.9781,-13.5183,"WQMMSN",TRUE
+"Peru","Huanuco",-76.2421,-9.9306,"WQMMSN",TRUE
+"Peru","Huaral",-77.2078,-11.495,"WQMMSN",TRUE
+"Peru","Huancani",-75.91667,-13.18333,"WQMMSN",TRUE
+"Peru","Huarapa",-76.20659,-9.77057,"WQMMSN",TRUE
+"Peru","Huancayo",-75.205,-12.0717,"WQMMSN",TRUE
+"Peru","La Molina",-76.95,-12.0833,"WQMMSN",TRUE
+"Peru","Oxapampa",-75.4022,-10.5775,"WQMMSN",TRUE
+"Peru","Pacamarca",-75.41985,-11.8547,"WQMMSN",TRUE
+"Peru","Pillao",-75.96667,-9.66667,"WQMMSN",TRUE
+"Peru","Chota",-78.65,-6.5636,"ZTPO9T",TRUE
+"Peru","Chugay",-77.8683,-7.78167,"ZTPO9T",TRUE
+"Peru","Huancayo",-75.2049,-12.0651,"ZTPO9T",TRUE
+"Peru","Huanuco",-76.2422,-9.9306,"ZTPO9T",TRUE
+"Peru","Majes",-72.1911,-16.3625,"ZTPO9T",TRUE
+"Peru","Yanac",-77.8,-7.8,"ZTPO9T",TRUE
